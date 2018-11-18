@@ -16,16 +16,11 @@
 
 package io.warp10.script.ext.polyglot;
 
-import io.warp10.script.WarpScriptException;
-import io.warp10.script.WarpScriptStack;
-import io.warp10.script.functions.SCRIPTENGINE;
-
 import javax.script.Bindings;
 import javax.script.ScriptContext;
 import javax.script.ScriptEngine;
 
 import org.codehaus.groovy.jsr223.GroovyScriptEngineFactory;
-import org.jruby.embed.jsr223.JRubyEngineFactory;
 
 public class GROOVY extends SCRIPTENGINE {
   

@@ -16,8 +16,6 @@
 
 package io.warp10.script.ext.polyglot;
 
-import io.warp10.script.functions.SCRIPTENGINE;
-
 import javax.script.ScriptEngine;
 
 import jdk.nashorn.api.scripting.NashornScriptEngineFactory;
