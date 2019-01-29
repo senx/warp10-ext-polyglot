@@ -19,7 +19,6 @@ package io.warp10.script.ext.polyglot;
 import java.util.HashMap;
 import java.util.Map;
 
-import io.warp10.script.functions.SCRIPTENGINE;
 import io.warp10.warp.sdk.WarpScriptExtension;
 
 public class GroovyWarpScriptExtension extends WarpScriptExtension {
